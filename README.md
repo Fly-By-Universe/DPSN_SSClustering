@@ -134,7 +134,7 @@ Results can be saved in CSV format for subsequent analysis and visualization.
 
 File Structure
 --------------
-The main file ABC_3.27.py contains:
+The main file DPSN.py contains:
 - Data preprocessing functions
 - Node and Graph classes
 - Clustering algorithm implementations
